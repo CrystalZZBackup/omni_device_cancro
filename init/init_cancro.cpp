@@ -119,7 +119,7 @@ void vendor_load_properties()
             break;
         default:
             // Other unsupported variants
-            property_set("ro.product.model", "Unsupported MI Cancro");
+            property_set("ro.product.model", "MI Cancro");
             break;
     }
 
