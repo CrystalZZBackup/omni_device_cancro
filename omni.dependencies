@@ -7,9 +7,9 @@
  },
  {
    "remote": "github",
-   "repository": "Zenderable/android_device_qcom_common",
-   "target_path": "vendor/xiaomi/cancro",
-   "revision": "android-6.0"
+   "repository": "TheMuppets/proprietary_vendor_xiaomi",
+   "target_path": "vendor/xiaomi",
+   "revision": "cm-13.0"
  },
  {
    "remote": "github",
